@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C1B8854D-F18
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prova.Api", "src\Prova.Api\Prova.Api.csproj", "{42E1A208-E1C4-481C-9577-25DD2830C991}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prova.Api.Integration.Tests", "src\Prova.Api.Integration.Tests\Prova.Api.Integration.Tests.csproj", "{71123515-8A88-4F3B-9626-A01B26B6AEDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prova.Tests", "src\Prova.Tests\Prova.Tests.csproj", "{71123515-8A88-4F3B-9626-A01B26B6AEDB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prova.Domain", "src\Prova.Domain\Prova.Domain.csproj", "{6E54DA39-480B-46A2-9078-46148CD5B6B2}"
 EndProject

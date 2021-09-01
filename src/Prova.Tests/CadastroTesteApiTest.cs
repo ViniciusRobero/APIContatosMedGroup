@@ -22,7 +22,7 @@ using Prova.Infrastructure.Data.Repositories;
 using Prova.Infrastructure.Data.Repositories.Interfaces;
 using Xunit;
 
-namespace Prova.Api.Integration.Tests
+namespace Prova.Tests
 {
     public class CadastroProvaApiTest : IClassFixture<WebApplicationFactory<Startup>>
     {
